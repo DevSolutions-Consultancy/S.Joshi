@@ -1,12 +1,11 @@
-# Hi, I'm S. Joshi 👋
+![Banner](banner.png)
+<h1 align="center">S. Joshi</h1>
 
+<p align="center">
+  
+  Freelance WordPress Developer 
 
-## Short introduction
+  WordPress Consultant  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Freelance Web Developer
-
-### WordPress Consultant
-
-### Technical Content Writer
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  Technical Content Writer
+</p>
